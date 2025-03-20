@@ -9,6 +9,6 @@ U okviru home stranice testirane su sledece funkcionalnosti:
 - izbor konretne stavke iz reda voznje (dugme izaberi)
 - dugme DALJE koje salje na stranicu za prijavu putnika
 
-- U okviru login stranice testirane su sledece funkcionalnosti:
+U okviru login stranice testirane su sledece funkcionalnosti:
 - popunjena je kompletna forma (ime, prezime, datum rodjenja, telefon, email, lozinka)
 - takodje, unet je neispravan email koji prilikom klika na dugme REGISTRACIJA vraca poruku Molimo Vas sacekajte (usled bug-a, poruka je nekad vidljiva a nekad nije)
