@@ -12,3 +12,11 @@ U okviru home stranice testirane su sledece funkcionalnosti:
 U okviru login stranice testirane su sledece funkcionalnosti:
 - popunjena je kompletna forma (ime, prezime, datum rodjenja, telefon, email, lozinka)
 - takodje, unet je neispravan email koji prilikom klika na dugme REGISTRACIJA vraca poruku Molimo Vas sacekajte (usled bug-a, poruka je nekad vidljiva a nekad nije)
+
+Koriscene tehnologije:
+1. Eclipse IDE
+2. Java
+3. Selenium WebDriver
+4. TestNG
+5. POM
+6. PageFactory
